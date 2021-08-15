@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Calvin Suen",
+        "position":"Computer Chapter Chair",
+        "program":"Mechatronics Engineering",
+        "macID":"suenc1"
+    },
+    {
+        "name":"Corbin Jarett",
+        "position":"Computer Chapter Vice Chair",
+        "program":"Mechatronics Engineering",
+        "macID":"jarrec1"
+    },
+    {
+        "name":"Edward Zhuang",
+        "position":"Computer Chapter Vice Chair",
+        "program":"Software Engineering",
+        "macID":"zhuange"
+    },
+    {
+        "name":"Umang Rajkarnikar",
+        "position":"Computer Chapter Secretary",
+        "program":"Software Engineering",
+        "macID":"rajkarnu"
+    }
+]
